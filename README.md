@@ -1,2 +1,2 @@
 # About this project
-Only samethings with Typescript!
+Only somethings with Typescript!
